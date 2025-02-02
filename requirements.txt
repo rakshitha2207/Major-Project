@@ -1,0 +1,15 @@
+SpeechRecognition
+groq
+pillow
+python-dotenv
+google-generativeai
+edge-tts
+faster-whisper
+opencv-python
+streamlit
+simpleaudio
+pygame
+selenium 
+webdriver_manager
+pyautogui 
+opencv-python-headless
